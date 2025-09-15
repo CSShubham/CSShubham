@@ -47,7 +47,8 @@ I'm a **passionate full-stack developer** who believes in the power of elegant c
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CSShubham&show_icons=true&theme=gradient&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CSShubham&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=30,e96443,904e95&title_color=ffffff&icon_color=ffffff&text_color=ffffff"/>
+<br/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSShubham&layout=compact&theme=gradient&hide_border=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" />
 
 </div>
