@@ -102,25 +102,7 @@ const shubham = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CSShubham&custom_title=Shubham's%20Contribution%20Graph&bg_color=0D1117&color=667EEA&line=667EEA&point=FF6B6B&area_color=667EEA&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
----
 
-## 🎯 Coding Stats
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C234%20hrs%2045%20mins-blue?style=flat-square&labelColor=0D1117)
-
-```text
-JavaScript   12 hrs 30 mins  ████████████░░░░░░   48.5%
-React        6 hrs 15 mins   ██████░░░░░░░░░░░░   24.3%
-Node.js      4 hrs 20 mins   ████░░░░░░░░░░░░░░   16.8%
-CSS          2 hrs 10 mins   ██░░░░░░░░░░░░░░░░    8.4%
-Other        0 hrs 30 mins   ░░░░░░░░░░░░░░░░░░    2.0%
-```
-<!--END_SECTION:waka-->
-
-</div>
 
 ---
 
@@ -135,7 +117,7 @@ Other        0 hrs 30 mins   ░░░░░░░░░░░░░░░░░
 🛍️ SketchyStore - Full Stack E-Commerce Platform
 A comprehensive e-commerce web application built with modern technologies. Features include user authentication, product catalog, shopping cart, secure checkout, and admin dashboard for inventory management.
 Tech Stack: React.js | Node.js | Express | MongoDB | JWT Authentication
-Show Image
+
 </div>
 
 ---
@@ -162,13 +144,6 @@ Show Image
 
 ---
 
-### ☕ Support My Work
-
-If you find my projects helpful, consider buying me a coffee!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/shubhamraj)
-
----
 
 **⭐ From [CSShubham](https://github.com/CSShubham) | Let's build something amazing together!**
 
